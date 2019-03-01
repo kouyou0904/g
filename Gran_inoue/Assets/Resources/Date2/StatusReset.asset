@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af508fb6b053d2247bb033f928e05acf, type: 3}
+  m_Name: StatusReset
+  m_EditorClassIdentifier: 
+  param:
+  - ID: 1A
+    NAME: Froide
+    HP: 500
+    Att: 0
+    Def: 15
+    Matt: 27
+    Mdef: 25
+    Imap: 25
+    Wei: 20
+    Tec: 0
+    Avo: 0
+  - ID: 1B
+    NAME: Penguin
+    HP: 400
+    Att: 25
+    Def: 20
+    Matt: 0
+    Mdef: 18
+    Imap: 25
+    Wei: 20
+    Tec: 0
+    Avo: 0
+  - ID: 2A
+    NAME: Swift
+    HP: 600
+    Att: 35
+    Def: 23
+    Matt: 0
+    Mdef: 25
+    Imap: 30
+    Wei: 23
+    Tec: 0
+    Avo: 0
+  - ID: 2B
+    NAME: Shikigami
+    HP: 400
+    Att: 0
+    Def: 18
+    Matt: 28
+    Mdef: 20
+    Imap: 25
+    Wei: 15
+    Tec: 0
+    Avo: 0
